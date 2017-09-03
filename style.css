@@ -1,0 +1,23 @@
+h1{
+    background-color: rgb(132, 215, 135);
+    padding: 15px;
+    margin: 0px;
+    margin-bottom: 15px;
+}
+
+form{
+    padding: 16px;
+    font-size: 28px;
+}
+
+input[type='text']{
+    width: 280px;
+    height: 29px;
+    font-size: 19px;    
+}
+            
+button{
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+}
